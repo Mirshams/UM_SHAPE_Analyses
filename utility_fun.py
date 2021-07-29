@@ -1,4 +1,5 @@
 # Useful functions for getting colormap data
+# 7.29.2021
 
 import matplotlib.pyplot as plt
 import numpy as np
