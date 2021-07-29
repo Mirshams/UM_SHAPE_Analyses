@@ -14,3 +14,6 @@ Starts tracking the file for prompting you to commit or push it to GitHub.
 ## git status
 Gives you the status of your files. Whether you have files that are untracked
 or if the files are tracked but not committed yet.
+
+## git commit
+> git commit -m "Title of the commit" -m "The longer discription of the commit"
