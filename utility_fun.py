@@ -1,3 +1,5 @@
+# Useful functions for getting colormap data
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pydicom
